@@ -1,0 +1,10 @@
+## roda no Python 3.9.5
+opencv-python-headless==5.0.0.93
+imutils==0.5.4
+numpy==2.1.2
+easyocr==1.7.2
+rembg==2.0.59
+streamlit==1.38.0
+scikit-image==0.25.2
+pillow==10.4.0
+
